@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Love Letter",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-05T13:25:41.403041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "44. Caliber Love Letter",
+      "artist": "Alexisonfire",
+      "has_synced": true,
+      "path": "select/01_44._Caliber_Love_Letter_Alexisonfire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Yellowman",
+      "has_synced": false,
+      "path": "select/02_Love_Letter_Yellowman.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_Love_Letter_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Heart Rate Rapid (Primary I's Love Letter to Metronomy)",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/04_My_Heart_Rate_Rapid_(Primary_I's_Love_Letter_to_Metronomy)_Metronomy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Heart Rate Rapid (Primary 1's Love Letter To Metronomy)",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/05_My_Heart_Rate_Rapid_(Primary_1's_Love_Letter_To_Metronomy)_Metronomy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Letter Boxes",
+      "artist": "The Posies",
+      "has_synced": true,
+      "path": "select/06_Love_Letter_Boxes_The_Posies.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/07_Love_Letter_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Letter Prelude",
+      "artist": "R. Kelly",
+      "has_synced": false,
+      "path": "select/08_Love_Letter_Prelude_R._Kelly.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Elevator Love Letter",
+      "artist": "Stars",
+      "has_synced": true,
+      "path": "select/09_Elevator_Love_Letter_Stars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Letter To Japan",
+      "artist": "The Bird and the Bee",
+      "has_synced": true,
+      "path": "select/10_Love_Letter_To_Japan_The_Bird_and_the_Bee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Death from Above 1979",
+      "has_synced": true,
+      "path": "select/11_Love_Letter_Death_from_Above_1979.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Leona Lewis",
+      "has_synced": true,
+      "path": "select/12_Love_Letter_Leona_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Jessica Harp",
+      "has_synced": true,
+      "path": "select/13_Love_Letter_Jessica_Harp.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Yanagi Nagi",
+      "has_synced": false,
+      "path": "select/14_Love_Letter_Yanagi_Nagi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Natalie Cole",
+      "has_synced": false,
+      "path": "select/15_Love_Letter_Natalie_Cole.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Paul Kelly",
+      "has_synced": true,
+      "path": "select/16_Love_Letter_Paul_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Letter to the Future - Remastered",
+      "artist": "Manic Street Preachers",
+      "has_synced": false,
+      "path": "select/17_Love_Letter_to_the_Future_-_Remastered_Manic_Street_Preachers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Letter",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Letter_YOASOBI.txt"
+    }
+  ]
+}
